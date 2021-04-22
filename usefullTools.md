@@ -1,0 +1,2 @@
+- CPU power manager
+- Tilix
